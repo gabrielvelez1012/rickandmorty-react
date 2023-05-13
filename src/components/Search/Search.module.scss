@@ -11,3 +11,9 @@
         outline: none;
     }
 }
+
+@media (max-width: 576px){
+    .input{
+        width: 80%;
+    }
+}
